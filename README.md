@@ -1,0 +1,1 @@
+Soy adri y este es mi readme de colaborativo
