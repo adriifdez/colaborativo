@@ -1,1 +1,1 @@
-Soy carlos y este es mi readme de colaborativo
+hola soy adri y soy carlos
